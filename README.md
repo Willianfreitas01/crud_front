@@ -13,4 +13,4 @@ O yarn está na versão 1.22.19
 O react está na versão 16.8.5
 
 ## `node`
-O node está na versão 18.16.0# crud_front
+O node está na versão 18.16.0
